@@ -19,6 +19,6 @@
     "@packages/eslint-config": "workspace:*",
     "eslint-config-turbo": "1.10.7",
     "turbo": "1.10.7",
-    "typescript": "5.2.2"
+    "typescript": "5.3.3"
   }
 }
