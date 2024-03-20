@@ -17,6 +17,6 @@
   "devDependencies": {
     "@packages/biome-config": "workspace:*",
     "turbo": "1.10.7",
-    "typescript": "5.2.2"
+    "typescript": "5.4.3"
   }
 }
