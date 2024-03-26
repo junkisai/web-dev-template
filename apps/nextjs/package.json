@@ -14,7 +14,7 @@
   "devDependencies": {
     "@packages/biome-config": "workspace:*",
     "@packages/tsconfig": "workspace:*",
-    "@types/node": "20.9.2",
+    "@types/node": "20.11.30",
     "@types/react": "18.2.37",
     "@types/react-dom": "^18.2.14",
     "concurrently": "8.2.2",
